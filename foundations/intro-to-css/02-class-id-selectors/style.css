@@ -1,1 +1,19 @@
 /* Add CSS Styling */
+.odd-num {
+    background-color: #ffa4a4;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#even-num {
+    font-size: 36px;
+    color: blue;
+}
+
+.enlarge {
+    font-size: 24px;
+}
+
+#even-num-two {
+    background-color: rgb(38, 244, 38);
+    font-weight: 700;
+}
